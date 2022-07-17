@@ -39,3 +39,6 @@ Useful links in creating your AWS "Thing":
   
   ![image](https://user-images.githubusercontent.com/50542181/179390283-c112d8ab-74aa-42ab-9ab8-1539d09fb54f.png)
 
+.
+
+Output file (not to be imported to the Online Keil IDE): RTOS_Sending_Motion_ML_Data_AWS_Latest.DISCO_L475VG_IOT01A.bin
