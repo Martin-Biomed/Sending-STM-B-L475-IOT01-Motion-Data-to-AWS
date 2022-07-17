@@ -1,0 +1,1 @@
+# Sending-STM-B-L475-IOT01-Motion-Data-to-AWS
