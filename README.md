@@ -24,7 +24,7 @@ Enter your wi-fi connectivity details in "mbed_app.json".
 
 Don't forget to extract the contents of "compile_commands.zip" and include that extracted JSON file in your code :) 
 
-Other ZIP files which must be extracted and their contents added to the code include "BUILD.zip", "edge-impulse-sdk.zip", "mbed-client-for-aws.zip".
+Other ZIP files which must be extracted (and their contents added to the code) include "BUILD.zip", "edge-impulse-sdk.zip" and "mbed-client-for-aws.zip".
 
  .
  .
